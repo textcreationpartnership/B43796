@@ -1,0 +1,1926 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first list of recalls.</title>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43796</idno><idno type="EEBO-CITATION">767618624</idno>
+  <idno type="VID">212638</idno>
+  <idno type="EEBO-PROQUEST">2240869557</idno>
+  
+            <idno type="OCLC"> 767618624</idno>
+            <idno type="OCLC">ocn 767618624</idno>
+            <idno type="STC">Wing R608</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212638)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3024:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first list of recalls.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Mount, stationer to the Navy, and sold by him at his shop on Tower-hill,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Lists of vessels --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212638:1"/>
+            <pb facs="tcp:212638:2"/>
+            <head>THE FIRST LIST OF RECALLS.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">Ships Names</cell>
+                     <cell role="label" cols="2">Wages</cell>
+                     <cell role="label" rows="2">When Paid.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Begining</cell>
+                     <cell role="label">Ending</cell>
+                  </row>
+                  <row>
+                     <cell>SAlly Rose</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>19 <hi>Dec.</hi> 94</cell>
+                     <cell>2 <hi>Jan.</hi> 94</cell>
+                  </row>
+                  <row>
+                     <cell>Post-Boy Adv. Bt.</cell>
+                     <cell>30 <hi>April</hi> 94</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Bazing Gally</cell>
+                     <cell>22 <hi>Dec.</hi> 93</cell>
+                     <cell>5 <hi>July</hi> 94</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Swallow Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Maidstone</cell>
+                     <cell>1 <hi>Jan.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Kings-Fisher</cell>
+                     <cell>1 <hi>Octob.</hi> 92</cell>
+                     <cell> </cell>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Henrietta-Yatch</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Fubs ditto</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Mary ditto</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Katharine ditto</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Charlott ditto</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Wm. &amp; Ma. ditto</cell>
+                     <cell>12 <hi>Sept.</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Monck</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Hawk Fireship</cell>
+                     <cell>12 <hi>Feb.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Captain</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Mermaide</cell>
+                     <cell>1 <hi>July</hi> 92</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Lucas Galley</cell>
+                     <cell>25 <hi>Octob.</hi> 93</cell>
+                     <cell>22 <hi>Dec.</hi> 93</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>New Affrica</cell>
+                     <cell>21 <hi>Mar.</hi> 91</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Roe Buck</cell>
+                     <cell>12 <hi>Feb.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Virgins Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Centurion</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Rupert Prize</cell>
+                     <cell>2 <hi>Jan.</hi> 92</cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Quaker Ketch</cell>
+                     <cell>1 <hi>July</hi> 92</cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Dolphin</cell>
+                     <cell>2 <hi>Feb.</hi> 91</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Greenwich</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Navy Yacht</cell>
+                     <cell>5 <hi>Feb.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Charles Gally</cell>
+                     <cell>5 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sheerness</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Roe Ketch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Hope</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Sterling-Castle</cell>
+                     <cell> </cell>
+                     <cell>30 <hi>Nov.</hi> 94</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Weymouth</cell>
+                     <cell>8 <hi>August</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sweepstakes</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Garland</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Monmouth Yacht</cell>
+                     <cell>1 <hi>April</hi> 91</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Soisdike, Ditto</cell>
+                     <cell>22 <hi>Mar.</hi> 92</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Samuel and Henry</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Dreadnought</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Mountague</cell>
+                     <cell>4 <hi>April</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Kent</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>31 <hi>Jan.</hi> 94</cell>
+                     <cell>26 <hi>Mar.</hi> 95</cell>
+                  </row>
+                  <row>
+                     <cell>Hampton Court</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>19 <hi>May</hi> 94</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>21 <hi>June</hi> 94</cell>
+                     <cell>22 <hi>Mar.</hi>
+                     </cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Faulcon</cell>
+                     <cell>1 <hi>July</hi> 92</cell>
+                     <cell>18 <hi>Jan.</hi> 93</cell>
+                     <cell>28 &amp; 29</cell>
+                  </row>
+                  <row>
+                     <cell>Assistance</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Greenfish storesh.</cell>
+                     <cell>11 <hi>Sept.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>3 <hi>April</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lond. Merch. Hos.</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Loyalty</cell>
+                     <cell>15 <hi>Mar.</hi> 93</cell>
+                     <cell>2 <hi>March</hi> 94</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Bridget Gally</cell>
+                     <cell>9 <hi>May</hi> 91</cell>
+                     <cell>2 <hi>Octob.</hi> 91</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Scarbrough</cell>
+                     <cell>15 <hi>Febr.</hi> 93</cell>
+                     <cell>18 <hi>July</hi> 94</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Smirna Merchant</cell>
+                     <cell>3 <hi>August</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Dover</cell>
+                     <cell>3 <hi>April</hi> 94</cell>
+                     <cell>18 <hi>April</hi> 95</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Henry Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Lenox</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Northumberland</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Oxford</cell>
+                     <cell>1 <hi>August</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Lyon</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Swiftsure</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>9 <hi>May</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Jersey</cell>
+                     <cell>17 <hi>Febr.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Speedwell Firesh.</cell>
+                     <cell>5 <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Goodwin Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>23 <hi>Febr.</hi> 94</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Katharine storesh.</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Bridget Gally</cell>
+                     <cell>22 <hi>Febr.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Saphire</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Swiftsure</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>28 <hi>May</hi> 95</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Foresight</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>James Gally</cell>
+                     <cell>12 <hi>April</hi> 94</cell>
+                     <cell>25 <hi>Nov.</hi> 94</cell>
+                     <cell>4 <hi>June</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rupert</cell>
+                     <cell>4 <hi>April</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>England Frigat</cell>
+                     <cell>5 <hi>Sept.</hi> 93</cell>
+                     <cell>16 <hi>Febr.</hi> 94</cell>
+                     <cell>4 &amp; 5</cell>
+                  </row>
+                  <row>
+                     <cell>Dartmouth</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>4 <hi>ditto</hi> 94</cell>
+                     <cell>5 &amp; 6</cell>
+                  </row>
+                  <row>
+                     <cell>Bonadvent. hired</cell>
+                     <cell>6 <hi>Nov.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Mountague</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>8 <hi>June</hi> 95</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Nonsuch</cell>
+                     <cell>1 <hi>April</hi> 91</cell>
+                     <cell>4 <hi>Janu.</hi> 94</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Hind Pink</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Berwick</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>12 <hi>June</hi> 95</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>York</cell>
+                     <cell>1 <hi>ditto</hi> 92</cell>
+                     <cell>13 <hi>ditto</hi>
+                     </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Talbot Pink</cell>
+                     <cell>16 <hi>Mar.</hi> 93</cell>
+                     <cell>15 <hi>Dec.</hi> 94</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Coronation hired</cell>
+                     <cell>12 <hi>Sept.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Winchelsea</cell>
+                     <cell>31 <hi>Mar.</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Prince George</cell>
+                     <cell>26 <hi>June</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Advice</cell>
+                     <cell>1 <hi>July</hi> 92</cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Arch-Angel</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Woolwich</cell>
+                     <cell>1 <hi>ditto</hi> 93</cell>
+                     <cell>25 <hi>June</hi> 95</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Tyger</cell>
+                     <cell>1 <hi>July</hi> 92</cell>
+                     <cell>26 <hi>ditto</hi>
+                     </cell>
+                     <cell>26 &amp; 27</cell>
+                  </row>
+                  <row>
+                     <cell>Rochester</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Crown</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>2 <hi>ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Soudadoes Prize</cell>
+                     <cell>1 <hi>Oct.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 94</cell>
+                     <cell>12 <hi>July</hi> 95</cell>
+                  </row>
+                  <row>
+                     <cell>Norwich</cell>
+                     <cell>24 <hi>Aug.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>20 <hi>August</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Soudadoes</cell>
+                     <cell>1 <hi>Oct.</hi> 92</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Conception Prize</cell>
+                     <cell>15 <hi>Nov.</hi> 90</cell>
+                     <cell>31 <hi>Aug.</hi> 93</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Charles Fireship</cell>
+                     <cell>1 <hi>Janu.</hi> 94</cell>
+                     <cell>5 <hi>July</hi> 95</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Faulcon</cell>
+                     <cell>19 <hi>ditto</hi> 93</cell>
+                     <cell>1 <hi>May</hi> 94</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Katharine Yacht</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>31 <hi>July</hi> 95</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>True-love Bomb</cell>
+                     <cell>15 <hi>Dec.</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>1 <hi>Octob.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Thunder Ditto</cell>
+                     <cell>18 <hi>April</hi> 95</cell>
+                     <cell>25 <hi>ditto</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Greyhound Ditto</cell>
+                     <cell>5 <hi>Dec.</hi> 94</cell>
+                     <cell>30 <hi>ditto</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Basilisk Ditto</cell>
+                     <cell>4 <hi>May</hi> 95</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Mary Anne Ditto</cell>
+                     <cell>9 <hi>Dec.</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Comet Bomb</cell>
+                     <cell>23 <hi>April</hi> 95</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Furnace Bomb</cell>
+                     <cell>18 <hi>ditto</hi>
+                     </cell>
+                     <cell>3 <hi>Octob.</hi> 95</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Granado Bomb</cell>
+                     <cell>19 <hi>ditto</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Blast. Bomb</cell>
+                     <cell>22 <hi>May</hi> 95</cell>
+                     <cell>4 <hi>ditto</hi>
+                     </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Serpent Bomb</cell>
+                     <cell>16 <hi>April</hi> 95</cell>
+                     <cell>4 <hi>ditto</hi>
+                     </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Carcass Bomb</cell>
+                     <cell>26 <hi>ditto</hi>
+                     </cell>
+                     <cell>8 <hi>ditto</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Antelope Hospit.</cell>
+                     <cell>16 <hi>Feb.</hi> 94</cell>
+                     <cell>28 <hi>Sept.</hi> 95</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>21 <hi>Octob.</hi> 95</cell>
+                     <cell>21 &amp; 22</cell>
+                  </row>
+                  <row>
+                     <cell>Dreadful Bomb</cell>
+                     <cell>6 <hi>May</hi> 95</cell>
+                     <cell>5 <hi>July</hi> 95</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Sandwich</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>22 <hi>Octob.</hi> 95</cell>
+                     <cell>22 &amp; 23</cell>
+                  </row>
+                  <row>
+                     <cell>Duke</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>24 <hi>ditto</hi>
+                     </cell>
+                     <cell>24 &amp; 25</cell>
+                  </row>
+                  <row>
+                     <cell>Grafton</cell>
+                     <cell> </cell>
+                     <cell>26 <hi>ditto</hi>
+                     </cell>
+                     <cell>26 &amp; 28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">☞</note>Sovereign</cell>
+                     <cell> </cell>
+                     <cell>29 <hi>ditto</hi>
+                     </cell>
+                     <cell>29, 30 1 <hi>No.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. Andrew</cell>
+                     <cell> </cell>
+                     <cell>2 <hi>Nov.</hi> 95</cell>
+                     <cell>&amp; 4 <hi>ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tyger Prize</cell>
+                     <cell>
+                        <hi>ditto</hi> 92</cell>
+                     <cell>4 <hi>ditto</hi>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Warspight</cell>
+                     <cell> </cell>
+                     <cell>25 <hi>Octob.</hi>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Suffolk</cell>
+                     <cell>93</cell>
+                     <cell>5 <hi>Nov.</hi> 95</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Edgar</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>6 <hi>ditto</hi>
+                     </cell>
+                     <cell>6 <hi>Nov.</hi> 95</cell>
+                  </row>
+                  <row>
+                     <cell>Hope</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>16 <hi>April</hi> 95</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Dutchess</cell>
+                     <cell>30 <hi>ditto</hi>
+                     </cell>
+                     <cell>7 <hi>Nov.</hi> 95</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>London</cell>
+                     <cell>1 <hi>Nov.</hi>
+                     </cell>
+                     <cell>8 <hi>ditto</hi>
+                     </cell>
+                     <cell>7 &amp; 8</cell>
+                  </row>
+                  <row>
+                     <cell>Mariana Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>8 <hi>Nov.</hi> 95</cell>
+                  </row>
+                  <row>
+                     <cell>Chatham</cell>
+                     <cell>
+                        <hi>ditto</hi> 92</cell>
+                     <cell>8 <hi>Nov.</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Elizabeth</cell>
+                     <cell>16 <hi>Nov.</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Sunderland</cell>
+                     <cell>17 <hi>Mar.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>9 &amp; 11</cell>
+                  </row>
+                  <row>
+                     <cell>Princess Ann</cell>
+                     <cell>16 <hi>July</hi> 92</cell>
+                     <cell>12 <hi>Octob.</hi>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Isabella Yacht</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>12 <hi>ditto</hi> 94</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Essex Prize</cell>
+                     <cell>20 <hi>July</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Virgin Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Henrietta Yacht</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Captain</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Kent</cell>
+                     <cell>1 <hi>Feb.</hi> 94</cell>
+                     <cell>14 <hi>Nov.</hi> 95</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Berkley-Castle</cell>
+                     <cell>23 <hi>Mar.</hi> 93</cell>
+                     <cell>25 <hi>Octob.</hi> 95</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Smirna Factor</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi>
+                     </cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Navy Yacht</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Britannia</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>2 <hi>Decemb.</hi>
+                     </cell>
+                     <cell>2, 3, 4 <hi>Dec.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Albemarle</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>5 &amp; 6</cell>
+                  </row>
+                  <row>
+                     <cell>Concord Hospit.</cell>
+                     <cell>24 <hi>Jan.</hi> 92</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Society, Ditto</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>St. Vincent Firesh.</cell>
+                     <cell>
+                        <hi>ditto</hi> 92</cell>
+                     <cell>6</cell>
+                     <cell>6 &amp; 7</cell>
+                  </row>
+                  <row>
+                     <cell>Fortune, Ditto</cell>
+                     <cell>20 <hi>Mar.</hi> 92</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Dispatch Brigant.</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Ossory</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>7 &amp; 9</cell>
+                  </row>
+                  <row>
+                     <cell>Eagle</cell>
+                     <cell>
+                        <hi>ditto</hi> 92</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Essex</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>11 <hi>Dec.</hi> 95</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Bridget Gally</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>30 <hi>Septem.</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Penzance</cell>
+                     <cell>2 <hi>April</hi> 95</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Solebay</cell>
+                     <cell>13 <hi>Sept.</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Seahorse</cell>
+                     <cell>27 <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Bonadventure</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>17 <hi>Dec.</hi> 95</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Charlott Yacht</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Alborough Ketch</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Advice</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Mermaid</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>9 <hi>Jan.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Griffin Fireship</cell>
+                     <cell>5 <hi>Febr.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Hawk, Ditto</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Germoon Prize</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Berwick</cell>
+                     <cell>25 <hi>July</hi> 95</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Owners-love Fir.</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>16 <hi>January</hi>
+                     </cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Mary</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Prince George</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Dreadnought</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>4 <hi>February</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Southampton</cell>
+                     <cell>9 <hi>April</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Vulture Fireship</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Loyal Merchant</cell>
+                     <cell>12 <hi>Sept.</hi> 92</cell>
+                     <cell>13 <hi>Octob.</hi> 95</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Jersie</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Kings-fisher</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Faulcon</cell>
+                     <cell>28 <hi>Sept.</hi> 94</cell>
+                     <cell>10 <hi>June</hi> 95</cell>
+                     <cell>21 <hi>March</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Canterbury Stores.</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi>
+                     </cell>
+                     <cell>30 <hi>May</hi> 96</cell>
+                  </row>
+                  <row>
+                     <cell>Katharine Storesh.</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>12 <hi>June</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Winchester</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>24 <hi>ditto</hi>
+                     </cell>
+                     <cell>17, 18, 19.</cell>
+                  </row>
+                  <row>
+                     <cell>Carlisle</cell>
+                     <cell>11 <hi>Febr.</hi> 92</cell>
+                     <cell>27 <hi>Jan.</hi> 95</cell>
+                     <cell>24, 25, 26.</cell>
+                  </row>
+                  <row>
+                     <cell>Drake</cell>
+                     <cell>26 <hi>Sept.</hi> 94</cell>
+                     <cell>20 <hi>Dec.</hi> 94</cell>
+                     <cell>3 <hi>July</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Post-boy Adv. B.</cell>
+                     <cell>23 <hi>April</hi> 95</cell>
+                     <cell>3 <hi>July</hi> 95</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fly Advice Boat</cell>
+                     <cell>9 <hi>April</hi> 94</cell>
+                     <cell>22 <hi>Aug.</hi> 95</cell>
+                     <cell>4 <hi>July</hi> 96</cell>
+                  </row>
+                  <row>
+                     <cell>Sterling Castle</cell>
+                     <cell>1 <hi>Decemb.</hi>
+                     </cell>
+                     <cell>11 <hi>July</hi> 96</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Humber</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Breda</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>13 <hi>July</hi> 96</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Oxford</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>15 <hi>ditto</hi>
+                     </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Newcastle</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Cornwall</cell>
+                     <cell> </cell>
+                     <cell>15 <hi>July</hi> 96</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Machine Firesh.</cell>
+                     <cell>1 <hi>Jan.</hi> 94</cell>
+                     <cell>27 <hi>April</hi>
+                     </cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Colchester</cell>
+                     <cell>23 <hi>Octob.</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>22 <hi>Aug.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chester</cell>
+                     <cell>1 <hi>July</hi> 92</cell>
+                     <cell>29 <hi>April</hi> 96</cell>
+                     <cell>25 &amp; 26</cell>
+                  </row>
+                  <row>
+                     <cell>Bristol Hospit.</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>2 <hi>Septemb.</hi>
+                     </cell>
+                     <cell>11 <hi>Sept.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Portland</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>30 <hi>ditto</hi> 95</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Isabella Yacht</cell>
+                     <cell>13 <hi>ditto</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Mortar Bomb</cell>
+                     <cell>2 <hi>Sept.</hi> 93</cell>
+                     <cell>15 <hi>ditto</hi> 96</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Society ditto</cell>
+                     <cell>5 <hi>Dec.</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Phoenix ditto</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Star ditto</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Owners Advent.</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Portsmouth ditto</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Queen</cell>
+                     <cell>2 <hi>Novemb.</hi>
+                     </cell>
+                     <cell>30 <hi>ditto</hi> 95</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Restoration</cell>
+                     <cell>1 <hi>Octob.</hi> 93</cell>
+                     <cell>24 <hi>Dec.</hi> 95</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Burford</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>21 <hi>ditto</hi>
+                     </cell>
+                     <cell>18 &amp; 19</cell>
+                  </row>
+                  <row>
+                     <cell>Flame Fireship</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>30 <hi>Sept.</hi>
+                     </cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Northumberland</cell>
+                     <cell>1 <hi>ditto</hi> 94</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>19 &amp; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Norwich</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Strombolo Firesh.</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Firebrand Firesh.</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Bonadventure hi.</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Monck</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Pembrook</cell>
+                     <cell>22 <hi>Nov.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Pearl</cell>
+                     <cell>1 <hi>Octob.</hi> 92</cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Suffolk hag-boat</cell>
+                     <cell>13 <hi>July</hi> 94</cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Rupert</cell>
+                     <cell>1 <hi>Octob.</hi>
+                     </cell>
+                     <cell>7 <hi>Jan.</hi>
+                     </cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Monmouth</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>18 <hi>Dec.</hi>
+                     </cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Cambridge</cell>
+                     <cell>2 <hi>Jan.</hi> 94</cell>
+                     <cell>30 <hi>Sept.</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Siam Hospital sh.</cell>
+                     <cell>1 <hi>Octob.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Lightning Firesh.</cell>
+                     <cell>1 <hi>ditto</hi> 92</cell>
+                     <cell>13 <hi>Oct.</hi> 96</cell>
+                     <cell>13 <hi>Oct.</hi> 96</cell>
+                  </row>
+                  <row>
+                     <cell>Diligence Brigan.</cell>
+                     <cell>
+                        <hi>ditto</hi> 93</cell>
+                     <cell>28 <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Intelligence ditto</cell>
+                     <cell>5 <hi>Febr.</hi> 95</cell>
+                     <cell>28 <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Post-Boy ditto</cell>
+                     <cell>8 <hi>ditto</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Conception Prize</cell>
+                     <cell>1 <hi>Sept.</hi> 93</cell>
+                     <cell>18 <hi>Sept.</hi> 94</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Betty hired</cell>
+                     <cell>20 <hi>May</hi> 95</cell>
+                     <cell>14 <hi>ditto</hi> 95</cell>
+                     <cell>31 <hi>Oct.</hi> 96</cell>
+                  </row>
+                  <row>
+                     <cell>Friendly Society</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>27 <hi>Dec.</hi> 95</cell>
+                     <cell>31 &amp; 2 <hi>No.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Albrough Ketch</cell>
+                     <cell>
+                        <hi>ditto</hi> 95</cell>
+                     <cell>9 <hi>Feb.</hi> 95</cell>
+                     <cell>2 <hi>Nov.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Swallow Prize</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>22 <hi>ditto</hi>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Soudadoes</cell>
+                     <cell> </cell>
+                     <cell>23 <hi>ditto</hi>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>New Affrica</cell>
+                     <cell> </cell>
+                     <cell>29 <hi>ditto</hi>
+                     </cell>
+                     <cell>6 &amp; 7</cell>
+                  </row>
+                  <row>
+                     <cell>Sam. and Henry</cell>
+                     <cell> </cell>
+                     <cell>30 <hi>May</hi> 96</cell>
+                     <cell>9 &amp; 10</cell>
+                  </row>
+                  <row>
+                     <cell>Smirna Factor</cell>
+                     <cell>1 <hi>Octob.</hi> 95</cell>
+                     <cell>2 <hi>April</hi>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Prince George</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>6 <hi>ditto</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Unity Hir'd-ship</cell>
+                     <cell>29 <hi>Mar.</hi> 95</cell>
+                     <cell>13 <hi>ditto</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Lenox</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>7 <hi>Mar.</hi> 95</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Plimouth</cell>
+                     <cell>
+                        <hi>ditto</hi> 92</cell>
+                     <cell>16 <hi>Dec.</hi> 95</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Joseph Hir'd-ship</cell>
+                     <cell>31 <hi>Mar.</hi> 94</cell>
+                     <cell>15 <hi>April</hi> 96</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Vulcan Fire-ship</cell>
+                     <cell>1 <hi>Octob.</hi> 92</cell>
+                     <cell>12 <hi>Nov.</hi>
+                     </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>St. Vincent Firesh.</cell>
+                     <cell>8 <hi>Febr.</hi> 95</cell>
+                     <cell>4 <hi>Nov.</hi> 96</cell>
+                     <cell>13 <hi>Nov.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. Paul Firesh.</cell>
+                     <cell>1 <hi>Jan.</hi> 94</cell>
+                     <cell>12 <hi>ditto</hi>
+                     </cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Shark Brigantine</cell>
+                     <cell>13 <hi>Feb.</hi>
+                     </cell>
+                     <cell>14 <hi>ditto</hi>
+                     </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Coronation hi. sh.</cell>
+                     <cell>1 <hi>Octob.</hi>
+                     </cell>
+                     <cell>18 <hi>April</hi>
+                     </cell>
+                     <cell>16 &amp; 17</cell>
+                  </row>
+                  <row>
+                     <cell>Arch-Angel</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>28 <hi>ditto</hi>
+                     </cell>
+                     <cell>24, 25, 26.</cell>
+                  </row>
+                  <row>
+                     <cell>Shoreham</cell>
+                     <cell>16 <hi>Jan.</hi> 93</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>25 <hi>ditto</hi> 96</cell>
+                  </row>
+                  <row>
+                     <cell>Germoon Prize</cell>
+                     <cell>1 <hi>Octob.</hi> 95</cell>
+                     <cell>18 <hi>May</hi> 96</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Fly Brigantine</cell>
+                     <cell>13 <hi>Feb.</hi> 95</cell>
+                     <cell>28 <hi>Nov.</hi> 96</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Dispatch ditto</cell>
+                     <cell>6 <hi>ditto</hi>
+                     </cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Mary Gally</cell>
+                     <cell>1 <hi>Octob.</hi> 92</cell>
+                     <cell>30 <hi>Sept.</hi> 95</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Discovery Briga.</cell>
+                     <cell>5 <hi>Feb.</hi> 94</cell>
+                     <cell>20 <hi>ditto</hi> 96</cell>
+                     <cell>3 <hi>Dec.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Prudence</cell>
+                     <cell>1 <hi>Octob.</hi> 94</cell>
+                     <cell>2 <hi>June</hi>
+                     </cell>
+                     <cell>3 &amp; 4</cell>
+                  </row>
+                  <row>
+                     <cell>Cressant Fireship</cell>
+                     <cell>13 <hi>Mar.</hi> 92</cell>
+                     <cell>2 <hi>Dec.</hi>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Etna ditto</cell>
+                     <cell>9 <hi>Feb.</hi> 93</cell>
+                     <cell>27 <hi>June</hi>
+                     </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Pearl</cell>
+                     <cell>1 <hi>Octob.</hi> 95</cell>
+                     <cell>3 <hi>Sept.</hi>
+                     </cell>
+                     <cell>7, 8 &amp; 9</cell>
+                  </row>
+                  <row>
+                     <cell>Lond. Merch. Hos.</cell>
+                     <cell>
+                        <hi>ditto</hi> 94</cell>
+                     <cell>13 <hi>Nov.</hi>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Society ditto</cell>
+                     <cell>24 <hi>Feb.</hi> 95</cell>
+                     <cell>27 <hi>ditto</hi>
+                     </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Blast Bomb</cell>
+                     <cell>2 <hi>March</hi>
+                     </cell>
+                     <cell>17 <hi>Sept.</hi>
+                     </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Basilick ditto</cell>
+                     <cell>4 <hi>ditto</hi>
+                     </cell>
+                     <cell>18 <hi>ditto</hi>
+                     </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Josiah</cell>
+                     <cell>30 <hi>Aug.</hi> 94</cell>
+                     <cell>19</cell>
+                     <cell>15 &amp; 17</cell>
+                  </row>
+                  <row>
+                     <cell>Tyger hired</cell>
+                     <cell>20 <hi>May</hi> 95</cell>
+                     <cell>24</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Comet Bomb</cell>
+                     <cell>6 <hi>Mar.</hi> 95</cell>
+                     <cell>21 <hi>Sept.</hi> 96</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Granado Ditto</cell>
+                     <cell>2 <hi>ditto</hi>
+                     </cell>
+                     <cell>21</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Julian Ditto</cell>
+                     <cell>6 <hi>Dec.</hi> 94</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Carcass Ditto</cell>
+                     <cell>2 <hi>Mar.</hi> 95</cell>
+                     <cell>23</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Furnace Ditto</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>23</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Terrour Ditto</cell>
+                     <cell>6 <hi>ditto</hi>
+                     </cell>
+                     <cell>23</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Salamander Ditto</cell>
+                     <cell>5 <hi>Dec.</hi> 94</cell>
+                     <cell>24</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Kitchin Ditto</cell>
+                     <cell>
+                        <hi>ditto</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Serpent Ditto</cell>
+                     <cell>2 <hi>Mar.</hi> 95</cell>
+                     <cell>24</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Fire-Drake Ditto</cell>
+                     <cell>5 <hi>Dec.</hi> 94</cell>
+                     <cell>28</cell>
+                     <cell>31</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Mount,</hi> Stationer to the <hi>Navy,</hi> and Sold by him at his Shop on <hi>Tower-hill,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
